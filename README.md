@@ -17,8 +17,8 @@ docker-compose up --build
 ```
 
 ### Run the application locally:
-**Frontend**: Open your browser and navigate to **http://localhost:3000**.
-**Backend**: Open your browser and navigate to **http://localhost:8080**, and you can see the api interface. 
+**Frontend**: Open your browser and navigate to **http://localhost:3000**. <br />
+**Backend**: Open your browser and navigate to **http://localhost:8080**, and you can see the api interface. <br />
 Ensure port 3000 and 8080 are accessible.
 
 ### View logs:
