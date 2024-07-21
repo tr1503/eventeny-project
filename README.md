@@ -1,7 +1,7 @@
 # eventeny-project
 
 ## Tech stack
-I used php and apache as backend, mySQL as database and Node.js/HTML/CSS/JavaScript as frontend.
+I used php and apache as backend, mySQL as database and Node.js/HTML/CSS(Bootstrap)/JavaScript as frontend.
 
 ## Prerequisites
 
