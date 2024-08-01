@@ -14,16 +14,8 @@ app.get('/applicant', (req, res) => {
     res.sendFile(path.join(__dirname, 'frontend', 'public', 'applicant.html'));
 });
 
-app.get('/applicant/apply', (req, res) => {
-    res.sendFile(path.join(__dirname, 'frontend', 'public', 'apply.html'));
-});
-
 app.get('/organizer', (req, res) => {
     res.sendFile(path.join(__dirname, 'frontend', 'public', 'organizer.html'));
-});
-
-app.get('/organizer/create-application', (req, res) => {
-    res.sendFile(path.join(__dirname, 'frontend', 'public', 'create-application.html'));
 });
 
 // handle 404
